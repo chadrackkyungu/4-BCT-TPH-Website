@@ -13,7 +13,7 @@ p {
 /* NAVBAR */
 
 .navigation {
-    background-color: #2e89be;
+    background-color: #509e2e;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -25,7 +25,6 @@ p {
 
 .nav-link {
     display: flex;
-    gap: 2em;
 }
 
 .nav-link li {
@@ -87,7 +86,7 @@ img {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
-    margin-bottom: 10em;
+    margin-bottom: 4em;
 }
 
 .teamcontainer {
@@ -95,7 +94,6 @@ img {
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
     margin-top: 6em;
-    margin-bottom: 10em;
 }
 
 .prductimagecontainer {
